@@ -8,5 +8,5 @@ def using_pop(array)
   array.pop()
 end
 def pop_with_args(array)
-  array.delete(-1,-2)
+  array.delete(-2)
 end
